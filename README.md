@@ -5,16 +5,11 @@ This is a command line that creates a  SVG logo with custom color and three char
 
 
 ## Deployment
-
-
-
-
-
-
-
+https://drive.google.com/file/d/1FZRVtf6rE4RirnUJzRTtpVBIPQmeWRqX/view
 
 ## Github Repository
   
+  https://github.com/tujiabdulaya/SVG-Logo--Maker
 
 
 
